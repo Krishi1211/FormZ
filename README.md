@@ -2,8 +2,8 @@
 
 MERN Formz is an open-source full-stack form management system built using the MERN stack — MongoDB, Express, React, and Node.js. Designed for scalability, simplicity, and collaboration, this project allows developers to dynamically create, store, and manage forms.
 
-> 🎯 Built and maintained by [Krishi Shah](https://www.linkedin.com/in/krishishah)  
-> 🌐 Proudly shared under the [IntelligenZ](https://www.youtube.com/@intellignez) channel
+> 🎯 Built and maintained by [Krishi Shah](https://www.linkedin.com/in/krishishah1211/)  
+> 🌐 Proudly shared under the [IntelligenZ](https://www.youtube.com/channel/UCbUtPTIsWVP5AhbswlpKqww) channel
 
 ---
 
