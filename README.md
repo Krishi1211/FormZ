@@ -42,7 +42,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-formz.git
+git clone https://github.com/Krishi1211/FormZ
 cd mern-formz
 ```
 
